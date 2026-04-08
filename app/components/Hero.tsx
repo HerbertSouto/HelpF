@@ -97,7 +97,7 @@ export default function Hero() {
                     src="/ariane.png"
                     alt="Ariane Carvalho"
                     fill
-                    className="object-cover object-center"
+                    className="object-cover object-top"
                     priority
                   />
                 </div>
