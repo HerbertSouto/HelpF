@@ -94,7 +94,7 @@ export default function Hero() {
                 <div className="absolute -inset-4 bg-gradient-to-br from-pink-100 to-pink-50 rounded-3xl" />
                 <div className="relative w-72 h-80 lg:w-80 lg:h-96 rounded-2xl overflow-hidden shadow-xl">
                   <Image
-                    src="/ariane.jpg"
+                    src="/ariane.png"
                     alt="Ariane Carvalho"
                     fill
                     className="object-cover object-center"
